@@ -1,10 +1,10 @@
 # Special_Interest_Groups_Portal
 
 ## Team members
-Aliasgar Saifeebhai Mithawala
-\b Dinesh Dalip
-\b Premalkumar Patel
-\b Savan Rameshbhai Pedhadiya
+Aliasgar Saifeebhai Mithawala, 
+Dinesh Dalip,
+Premalkumar Patel,
+Savan Rameshbhai Pedhadiya
 
 ## Background and Business Need
 
