@@ -14,7 +14,7 @@ Currently Canadian Engineering Education Association (CEEA) provides a digital h
 
 
 ## Northstar & Carryover customers
-NorthStar (target) customer: Special Interest Groups (SIG)
+NorthStar (target) customer: Special Interest Groups (SIG)<br>
 Carryover customers: Other CEEA members, general public including students and teachers.
 
 
