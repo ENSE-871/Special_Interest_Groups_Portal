@@ -13,8 +13,10 @@ Currently Canadian Engineering Education Association (CEEA) provides a digital h
 
 ## Opportunity
 
+This is an opportunity to create a platform where SIG members can collaborate seamlessly and express their shared interests effortlessly. By enhancing features and offering additional tools, this platform can boost productivity and maximize outcomes. Such a platform would allow educators to engage with a broader audience and individuals with the same interest. 
 
 ## Northstar & Carryover customers
+
 NorthStar (target) customer: Special Interest Groups (SIG)<br>
 Carryover customers: Other CEEA members, general public including students and teachers.
 
