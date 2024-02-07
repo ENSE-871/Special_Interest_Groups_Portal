@@ -1,5 +1,5 @@
-#Project Name: Special_Interest_Groups_Portal
-##Team: Team Graps
+# Project Name: Special_Interest_Groups_Portal
+## Team: Team Graps
 
 ## Team members
 Aliasgar Saifeebhai Mithawala<br> 
