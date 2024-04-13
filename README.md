@@ -18,7 +18,7 @@ This is an opportunity to create a platform where SIG members can collaborate se
 
 ## Northstar & Carryover customers
 
-NorthStar (target) customer: Special Interest Groups (SIG)<br>
-Carryover customers: Other CEEA members, general public including students and teachers.
+NorthStar (target) customer: CEEA Special Interest Groups of Humanities and Engineering<br>
+Carryover customers: Other CEEA SIG members, general public including students and teachers.
 
 
