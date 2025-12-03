@@ -1,5 +1,5 @@
 # Project Name: Special_Interest_Groups_Portal
-## Demo: LINK
+
 ## Team: Team Graps
 
 ## Team members
